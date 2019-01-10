@@ -4,6 +4,9 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": "git@github.com:rinsuki/strong-typed-validator.git",
+  "scripts": {
+    "prepublish": "tsc"
+  },
   "author": "rinsuki <428rinsuki+git@gmail.com>",
   "license": "MIT",
   "devDependencies": {
