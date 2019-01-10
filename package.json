@@ -1,6 +1,6 @@
 {
   "name": "strong-typed-validator",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": "git@github.com:rinsuki/strong-typed-validator.git",
