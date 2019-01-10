@@ -1,0 +1,12 @@
+{
+  "name": "strong-typed-validator",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": "git@github.com:rinsuki/strong-typed-validator.git",
+  "author": "rinsuki <428rinsuki+git@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
