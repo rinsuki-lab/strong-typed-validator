@@ -1,4 +1,4 @@
-type Validator<T> = (input: any) => T
+export type Validator<T> = (input: any) => T
 
 export interface NumberValidatorOptions {
     onlyInt?: "floor" | "ceil" | "round" | "error"
